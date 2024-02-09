@@ -1,0 +1,34 @@
+{
+  "filter": [
+    {
+      "year": 2023,
+      "url": "https://mentorship.lfx.linuxfoundation.org/#projects_all",
+      "organizations": [
+        {
+          "name": "CNCF - Kyverno",
+          "terms": "Term 1 Mar-May",
+          "issue": "Convert Kubernetes Best Practices Policies to CEL",
+          "image_url": "https://jobspring-prod-uploads.s3.amazonaws.com/1472abbe-aa65-4b9d-b454-fb3a3c7646c0-.png",
+          "image_background_color": "#ffffff",
+          "description": "Kubernetes Best Practices policies are written using Kyverno patterns and JMESPath, which means they cannot be executed as ValidatingAdmissionPolicy resources in the API server. This project aims to convert Kubernetes Best Practices policies, and other validating policies, to CEL wherever possible.",
+          "url": "https://kyverno.io/",
+          "projects_url": "https://mentorship.lfx.linuxfoundation.org/project/521122b6-aed0-475d-93de-fb2cbfff85d2",
+          "topics": ["Kubernetes", "Kyverno policies", "CEL"],
+          "repo_url": "https://github.com/kyverno/policies/issues/891"
+        },
+        {
+          "name": "Another Organization",
+          "terms": "Term 2 Jun-Aug",
+          "issue": "Another Project",
+          "image_url": "https://example.com/image.png",
+          "image_background_color": "#ffffff",
+          "description": "Description of the another project.",
+          "url": "https://example.com/",
+          "projects_url": "https://mentorship.lfx.linuxfoundation.org/project/another-project-id",
+          "topics": ["Topic1", "Topic2"],
+          "repo_url": "https://github.com/anotherorganization/project/issues/123"
+        }
+      ]
+    }
+  ]
+}
