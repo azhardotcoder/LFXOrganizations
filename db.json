@@ -57,7 +57,8 @@
           "projects_url": "https://mentorship.lfx.linuxfoundation.org/project/another-project-id",
           "topics": ["Topic1", "Topic2"],
           "repo_url": "https://github.com/anotherorganization/project/issues/123",
-          "test" : "Testing"
+          "test" : "Testing",
+          "test2" : "Testing2"
         }
       ]
     }
